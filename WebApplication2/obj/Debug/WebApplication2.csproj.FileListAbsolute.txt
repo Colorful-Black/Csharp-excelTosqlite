@@ -43,4 +43,9 @@ E:\1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompil
 E:\1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
 E:\1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 E:\1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
-E:\1\WebApplication2\WebApplication2\bin\NPOI.xml
+E:\1\WebApplication2\WebApplication2\bin\ICSharpCode.SharpZipLib.dll
+E:\1\WebApplication2\WebApplication2\bin\NPOI.dll
+E:\1\WebApplication2\WebApplication2\bin\NPOI.OOXML.dll
+E:\1\WebApplication2\WebApplication2\bin\NPOI.OpenXml4Net.dll
+E:\1\WebApplication2\WebApplication2\bin\NPOI.OpenXmlFormats.dll
+E:\1\WebApplication2\WebApplication2\bin\ICSharpCode.SharpZipLib.xml

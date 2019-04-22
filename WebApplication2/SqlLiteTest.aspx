@@ -10,7 +10,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="Start" runat="server" Text="Button" OnClick="Start_Click" />
+            <asp:Button ID="Start" runat="server" Text="Start" OnClick="Start_Click" />
+            <asp:Label ID="LbNote" runat="server" Text="流程"></asp:Label>
+            <asp:GridView ID="GdView1" runat="server"></asp:GridView>
         </div>
         <asp:Label ID="LbResult" runat="server" Text="结果："></asp:Label>
     </form>
